@@ -1,0 +1,121 @@
+/*INDEX PAGE START*/
+.body{
+    background-color: #fdfdfd;
+    margin: 0%;
+}
+
+.heading{
+    padding-top: 200px;
+    padding-bottom: 250px;
+    background-color: #071a52;
+}
+
+.earth{
+    position: absolute;
+    bottom: 1px;
+    left: 0;
+}
+.earth_photo{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    right: 210px;
+}
+
+.statllite{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.star1{
+    position: relative;
+    left: 550px;
+    top: 150px;
+}
+.star2{
+    position: relative;
+    left: 700px;
+    top: 100px;
+}
+.star3{
+    position: relative;
+    left: 300px;
+    top: 90px;
+}
+.star4{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.star5{
+    position: relative;
+    left: 400px;
+    top: 40px;
+}
+.star6{
+    position: relative;
+    left: 770px;
+    top: 200px;
+}
+.star7{
+    position: relative;
+    left: 650px;
+    bottom: 120px;
+}
+.star8{
+    position: relative;
+    left: 400px;
+    bottom: 90px;
+}
+.star9{
+    position: relative;
+    left: 800px;
+    bottom: 70px;
+}
+.star10{
+    position: relative;
+    left: 1100px;
+    bottom: 250px;
+}
+.star11{
+    position: relative;
+    left: 1030px;
+    bottom: 70px;
+}
+.star12{
+    position: relative;
+    left: 900px;
+    bottom: 200px;
+}
+
+.moon{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    right: 70px;
+    top: 50px;
+}
+
+.Name{
+    text-align: center;
+    font-size: 80px;
+    color: azure;
+    font-family: 'Sacramento', cursive;
+}
+.about1{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: azure;
+    font-size: 20px;
+}
+
+.footer{
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color:  #071a52;
+    text-align: center;
+    color: azure;
+}
+/*INDEX PAGE START*/
